@@ -1,4 +1,12 @@
 ### Hi there 👋
+My name is Harry and I am an up and coming Software Developer! 
+
+I am participating in the Northcoders' Software Development Bootcamp, where I will learn JavaScript, HTML and CSS. 
+
+Fun fact: I love Doctor Who. Pronouns: he/him.
+
+Looking forward to this exciting journey. :) 
+
 
 <!--
 **HarryW217/HarryW217** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
