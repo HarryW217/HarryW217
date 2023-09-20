@@ -1,11 +1,11 @@
 ### Hi there 👋
-My name is Harry and I am an up and coming Software Developer! 
+My name is Harry and I am an up-and-coming Software Developer! 
 
-I am participating in the Northcoders' Software Development Bootcamp, where I will learn JavaScript, HTML and CSS. 
+I am participating in the Northcoders' Software Development Bootcamp, where I am learning JavaScript, HTML and CSS. I am thrilled to be on this exciting journey.
 
 Fun fact: I love Doctor Who. Pronouns: he/him.
 
-Looking forward to this exciting journey. :) 
+
 
 
 <!--
