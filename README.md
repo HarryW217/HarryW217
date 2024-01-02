@@ -1,9 +1,9 @@
 ### Hi there 👋
 My name is Harry and I am an up-and-coming Software Developer! 
 
-I have recently graduated from the Northcoders' Software Development Bootcamp, where I am learned JavaScript, HTML and CSS. In addition, I have learned Python and Typescript! I am thrilled to be on this exciting journey.
+I have recently graduated from the Northcoders' Software Development Bootcamp, where I learned JavaScript, HTML and CSS. In addition, I have learned Python and Typescript! I am thrilled to be on this exciting journey.
 
-Check out my projects on my profile, including a Back End News API (https://github.com/HarryW217/API-news), complete with a Front End News Application (https://github.com/HarryW217/nc-news)!
+Currently working on my Portfolio Website. Stay tuned!
 
 Fun fact: I love Doctor Who. Pronouns: he/him.
 
