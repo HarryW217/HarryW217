@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Harry and I am an up-and-coming Software Developer! 
+My name is Harry and I am a Software Developer! 
 
 I have recently graduated from the Northcoders' Software Development Bootcamp, where I learned JavaScript, HTML and CSS. In addition, I have learned Python and Typescript! I am thrilled to be on this exciting journey.
 
