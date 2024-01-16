@@ -3,7 +3,7 @@ My name is Harry and I am a Software Developer!
 
 I have recently graduated from the Northcoders' Software Development Bootcamp, where I learned JavaScript, HTML and CSS. In addition, I have learned Python and Typescript! I am thrilled to be on this exciting journey.
 
-Currently working on my Portfolio Website. Stay tuned!
+I have recently finished my Portfolio website and I am about to start populating it with more projects. Stay tuned!
 
 Fun fact: I love Doctor Who. Pronouns: he/him.
 
