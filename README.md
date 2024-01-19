@@ -3,9 +3,13 @@ My name is Harry and I am a Software Developer!
 
 I have recently graduated from the Northcoders' Software Development Bootcamp, where I learned JavaScript, HTML and CSS. In addition, I have learned Python and Typescript! I am thrilled to be on this exciting journey.
 
-I have recently finished my Portfolio website and I am about to start populating it with more projects. Stay tuned!
+`What am I up to right now?`: I am currently building a TV review app and a Chess game!
 
-Fun fact: I love Doctor Who. Pronouns: he/him.
+`Fun fact`: I love Doctor Who. 
+
+`Pronouns`: he/him.
+
+Visit my Portfolio Website: https://harrywalker.netlify.app/
 
 
 
