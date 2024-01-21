@@ -5,9 +5,9 @@ I have recently graduated from the Northcoders' Software Development Bootcamp, w
 
 `What am I up to right now?`: I am currently building a TV review app and a Chess game!
 
-`Fun fact`: I love Doctor Who. 
+`Fun fact`: I love Doctor Who
 
-`Pronouns`: he/him.
+`Pronouns`: he/him
 
 Visit my Portfolio Website: https://harrywalker.netlify.app/
 
