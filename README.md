@@ -3,7 +3,7 @@ My name is Harry and I am a Software Developer!
 
 I have recently graduated from the Northcoders' Software Development Bootcamp, where I learned JavaScript, HTML and CSS. In addition, I am learning Python and Typescript! I am thrilled to be on this exciting journey.
 
-`What am I up to right now?`: I am currently brainstorming ideas for a full-stack application, and I am building a Chess game!
+`What am I up to right now?`: I am currently building a Python/Flask application, and I am building a Chess game using Python and Pygame!
 
 `Fun fact`: I love Doctor Who
 
