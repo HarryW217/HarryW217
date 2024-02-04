@@ -1,7 +1,7 @@
 ### Hi there 👋
 My name is Harry and I am a Software Developer! 
 
-I have recently graduated from the Northcoders' Software Development Bootcamp, where I learned JavaScript, HTML and CSS. In addition, I am learning Python and Typescript! I am thrilled to be on this exciting journey.
+I have recently received my certification in Software Development on the Northcoders Bootcamp, where I learned JavaScript, HTML and CSS. In addition, I am learning Python and Typescript! I am thrilled to be on this exciting journey.
 
 `What am I up to right now?`: I am currently building a Python/Flask application, and I am building a Chess game using Python and Pygame!
 
