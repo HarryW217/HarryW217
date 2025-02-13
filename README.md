@@ -1,9 +1,9 @@
 ### Hi there 👋
 My name is Harry and I am a Software Developer! 
 
-In 2023 I received my certification in Software Development with the Northcoders Bootcamp, where I learned JavaScript, HTML, CSS, and a whole host of technologies. In addition, I am learning Python! I am thrilled to be on this exciting journey.
+In 2023 I received my certification in Software Development with the Northcoders Bootcamp, and since 2024 I have been working as a Software Engineer at the London Stock Exchange Group!
 
-`What am I up to right now?`: I am currently building a Python/Flask application and a Chess game using Python and Pygame! I am also improving my Python knowledge via Free Code Camp. 
+`What am I up to right now?`: I am currently building some tiny apps to refamiliarise myself with JavaScript, HTML and CSS.
 
 `Fun fact`: I love Doctor Who
 
